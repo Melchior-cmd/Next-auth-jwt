@@ -30,5 +30,6 @@ Front-end
 </div>
   
 Imagem
-## <img src="https://user-images.githubusercontent.com/54017816/245000392-52ebbf3e-e388-41dc-b6bc-5afab0d64c01.png" width="28px"/>
 
+
+<img src="https://user-images.githubusercontent.com/54017816/245000392-52ebbf3e-e388-41dc-b6bc-5afab0d64c01.png" />
