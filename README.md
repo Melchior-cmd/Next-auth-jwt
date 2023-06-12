@@ -29,3 +29,6 @@ Front-end
 </li>
 </div>
   
+Imagem
+## <img src="https://github.com/Melchior-cmd/Next-auth-jwt/assets/54017816/52ebbf3e-e388-41dc-b6bc-5afab0d64c01" width="28px"/>
+
