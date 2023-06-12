@@ -1,0 +1,16 @@
+.container2 {
+  margin: 0;
+  padding: 0;
+  height: 98vh;
+  width: 98;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background: #f4f4f4;
+}
+
+.container {
+  display: grid;
+  justify-content: center;
+  gap: 0.5em;
+}
