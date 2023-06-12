@@ -32,4 +32,4 @@ Front-end
 Imagem
 
 
-<img src="https://user-images.githubusercontent.com/54017816/245000392-52ebbf3e-e388-41dc-b6bc-5afab0d64c01.png" />
+<img src="https://user-images.githubusercontent.com/54017816/245003113-d0d5030d-59f1-48a2-8c9b-13f05522e687.png" />
