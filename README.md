@@ -29,7 +29,6 @@ Front-end
 </li>
 </div>
   
-Imagem
-
+  <h1 align="center">Imagem </h1>
 
 <img src="https://user-images.githubusercontent.com/54017816/245003113-d0d5030d-59f1-48a2-8c9b-13f05522e687.png" />
